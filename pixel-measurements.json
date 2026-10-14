@@ -1,0 +1,128 @@
+{
+  "gridcraft-after-100.png": {
+    "picture_pixels": [
+      320,
+      160
+    ],
+    "picture_bbox": [
+      138,
+      480,
+      458,
+      640
+    ],
+    "chinese_ink_height_px": 15,
+    "row_pitch_px_measured": 24.0
+  },
+  "gridcraft-after-150.png": {
+    "picture_pixels": [
+      480,
+      240
+    ],
+    "picture_bbox": [
+      200,
+      599,
+      680,
+      839
+    ],
+    "chinese_ink_height_px": 24,
+    "row_pitch_px_measured": 36
+  },
+  "gridcraft-after-50.png": {
+    "picture_pixels": [
+      160,
+      80
+    ],
+    "picture_bbox": [
+      83,
+      367,
+      243,
+      447
+    ],
+    "chinese_ink_height_px": 7,
+    "row_pitch_px_measured": 12
+  },
+  "gridcraft-before-100.png": {
+    "picture_pixels": [
+      256,
+      128
+    ],
+    "picture_bbox": [
+      119,
+      437,
+      375,
+      565
+    ],
+    "chinese_ink_height_px": 11,
+    "row_pitch_px_measured": 19.0
+  },
+  "gridcraft-before-150.png": {
+    "picture_pixels": [
+      384,
+      192
+    ],
+    "picture_bbox": [
+      171,
+      534,
+      555,
+      726
+    ],
+    "chinese_ink_height_px": 19,
+    "row_pitch_px_measured": 29
+  },
+  "gridcraft-before-50.png": {
+    "picture_pixels": [
+      128,
+      64
+    ],
+    "picture_bbox": [
+      73,
+      345,
+      201,
+      409
+    ],
+    "chinese_ink_height_px": 6,
+    "row_pitch_px_measured": 10.0
+  },
+  "libreoffice-100.png": {
+    "picture_pixels": [
+      309,
+      160
+    ],
+    "picture_bbox": [
+      130,
+      421,
+      439,
+      581
+    ],
+    "chinese_ink_height_px": 15,
+    "row_pitch_px_measured": 24.0
+  },
+  "libreoffice-150.png": {
+    "picture_pixels": [
+      465,
+      240
+    ],
+    "picture_bbox": [
+      176,
+      529,
+      641,
+      769
+    ],
+    "chinese_ink_height_px": 23,
+    "row_pitch_px_measured": 36
+  },
+  "libreoffice-50.png": {
+    "picture_pixels": [
+      153,
+      80
+    ],
+    "picture_bbox": [
+      83,
+      313,
+      236,
+      393
+    ],
+    "chinese_ink_height_px": 6,
+    "row_pitch_px_measured": 12
+  }
+}
