@@ -1,0 +1,20 @@
+{
+  "synthetic-original.xlsx": {
+    "crc_ok": true,
+    "only_allowlisted_synthetic_text": true,
+    "no_macros_or_external_links": true,
+    "media_sha256": "46022eb3754a6f06ee6c9384fd751debb72be7bbb5da7157e2bcf398cbd293a3"
+  },
+  "before-save.xlsx": {
+    "crc_ok": true,
+    "only_allowlisted_synthetic_text": true,
+    "no_macros_or_external_links": true,
+    "media_sha256": "46022eb3754a6f06ee6c9384fd751debb72be7bbb5da7157e2bcf398cbd293a3"
+  },
+  "after-save.xlsx": {
+    "crc_ok": true,
+    "only_allowlisted_synthetic_text": true,
+    "no_macros_or_external_links": true,
+    "media_sha256": "46022eb3754a6f06ee6c9384fd751debb72be7bbb5da7157e2bcf398cbd293a3"
+  }
+}
